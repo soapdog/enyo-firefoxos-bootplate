@@ -7,3 +7,6 @@
 [submodule "lib/layout"]
 	path = lib/layout
 	url = ../../enyojs/layout.git
+[submodule "lib/gaia"]
+	path = lib/gaia
+	url = https://github.com/soapdog/enyo-gaia-lib
